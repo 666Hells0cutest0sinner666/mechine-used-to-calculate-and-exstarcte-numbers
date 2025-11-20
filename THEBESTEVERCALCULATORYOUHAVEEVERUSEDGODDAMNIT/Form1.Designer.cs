@@ -53,6 +53,7 @@
             this.button19 = new System.Windows.Forms.Button();
             this.button20 = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
+            this.button22 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -198,7 +199,7 @@
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(147, 65);
             this.button11.TabIndex = 13;
-            this.button11.Text = "more options";
+            this.button11.Text = "Randomize";
             this.button11.UseVisualStyleBackColor = true;
             this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
@@ -285,22 +286,32 @@
             // button20
             // 
             this.button20.Cursor = System.Windows.Forms.Cursors.UpArrow;
-            this.button20.Location = new System.Drawing.Point(502, 12);
+            this.button20.Location = new System.Drawing.Point(504, 83);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(76, 136);
             this.button20.TabIndex = 22;
-            this.button20.Text = "Double";
+            this.button20.Text = "^";
             this.button20.UseVisualStyleBackColor = true;
             // 
             // button21
             // 
             this.button21.Cursor = System.Windows.Forms.Cursors.UpArrow;
-            this.button21.Location = new System.Drawing.Point(502, 154);
+            this.button21.Location = new System.Drawing.Point(502, 225);
             this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(76, 151);
+            this.button21.Size = new System.Drawing.Size(76, 80);
             this.button21.TabIndex = 23;
-            this.button21.Text = "Random";
+            this.button21.Text = "÷";
             this.button21.UseVisualStyleBackColor = true;
+            // 
+            // button22
+            // 
+            this.button22.Cursor = System.Windows.Forms.Cursors.UpArrow;
+            this.button22.Location = new System.Drawing.Point(502, 12);
+            this.button22.Name = "button22";
+            this.button22.Size = new System.Drawing.Size(76, 65);
+            this.button22.TabIndex = 24;
+            this.button22.Text = "OFF/ON music";
+            this.button22.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -308,6 +319,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(867, 450);
+            this.Controls.Add(this.button22);
             this.Controls.Add(this.button21);
             this.Controls.Add(this.button20);
             this.Controls.Add(this.button19);
@@ -366,6 +378,7 @@
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button button21;
+        private System.Windows.Forms.Button button22;
     }
 }
 
