@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|solutionrelative:thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|c:\\users\\localadmin\\documents\\github\\mechine-used-to-calculate-and-exstarcte-numbers\\thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|solutionrelative:thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|solutionrelative:thebestevercalculatoryouhaveeverusedgoddamnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|c:\\users\\localadmin\\documents\\github\\mechine-used-to-calculate-and-exstarcte-numbers\\thebestevercalculatoryouhaveeverusedgoddamnit\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|solutionrelative:thebestevercalculatoryouhaveeverusedgoddamnit\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|c:\\users\\localadmin\\documents\\github\\mechine-used-to-calculate-and-exstarcte-numbers\\thebestevercalculatoryouhaveeverusedgoddamnit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9125F544-D669-42FC-8F47-76B2CD1709E4}|THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT.csproj|solutionrelative:thebestevercalculatoryouhaveeverusedgoddamnit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
+              "RelativeDocumentMoniker": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
+              "RelativeToolTip": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:19:34.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -27,19 +49,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
-              "RelativeDocumentMoniker": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
-              "ToolTip": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
-              "RelativeToolTip": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T10:19:34.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
               "RelativeDocumentMoniker": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.cs",
@@ -48,6 +57,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T10:09:14.462Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Program.cs",
+              "RelativeDocumentMoniker": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Program.cs",
+              "ToolTip": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Program.cs",
+              "RelativeToolTip": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:50:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Localadmin\\Documents\\GitHub\\mechine-used-to-calculate-and-exstarcte-numbers\\THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.Designer.cs",
+              "RelativeToolTip": "THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT\\Form1.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAlwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:49:21.246Z",
+              "EditorCaption": ""
             }
           ]
         }

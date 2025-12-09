@@ -18,74 +18,49 @@ namespace THEBESTEVERCALCULATORYOUHAVEEVERUSEDGODDAMNIT
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void one_Click(object sender, EventArgs e)
         {
-
+            Answertext.Text = Answertext.Text +  "1";  
         }
 
-        private void DESTROY_Click(object sender, EventArgs e)
+        private void two_Click(object sender, EventArgs e)
         {
-
+            Answertext.Text = Answertext.Text +  "2";
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void three_Click(object sender, EventArgs e)
         {
-
+            Answertext.Text = Answertext.Text +  "3";
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void four_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "1";
+            Answertext.Text = Answertext.Text +  "4";
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void five_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "2";
+            Answertext.Text = Answertext.Text +  "5";
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void six_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "3";
+            Answertext.Text = Answertext.Text +  "6";
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void seven_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "4";
+            Answertext.Text = Answertext.Text +  "7";
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void eight_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "5";
+            Answertext.Text = Answertext.Text +  "8";
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void nine_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "6";
-        }
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = textBox1.Text + "7";
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = textBox1.Text + "8";
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = textBox1.Text + "9";
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click_1(object sender, EventArgs e)
-        {
-
+            Answertext.Text = Answertext.Text +  "9";
         }
     }
 }
